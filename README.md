@@ -1,1 +1,1 @@
-it is a digital clock that get current time and show display 
+It is a digital clock that gets the current time and shows the display 
